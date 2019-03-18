@@ -1,0 +1,17 @@
+# Emacs backup files
+*~
+
+# RStudio artifacts
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Knitr files
+*-knitr.*
+
+# PDFs
+*.pdf
+
+# PostScript
+*.ps
